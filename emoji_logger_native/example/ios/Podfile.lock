@@ -1,0 +1,22 @@
+PODS:
+  - emoji_logger_native (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - emoji_logger_native (from `.symlinks/plugins/emoji_logger_native/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  emoji_logger_native:
+    :path: ".symlinks/plugins/emoji_logger_native/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  emoji_logger_native: 94d8a293ba4b19c860088a75386fdc92959a476e
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
